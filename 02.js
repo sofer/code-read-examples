@@ -1,12 +1,12 @@
+
 function transform(arg1) {
-    let result = [];
+    let result = 0;
     for (let i = 0; i < arg1.length; i++) {
-        result.push(arg1[i] + 1)
+        result += arg1[i]
     }
     return result
 }
 
-//
 //
 //
 //
