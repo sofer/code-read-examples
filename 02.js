@@ -1,4 +1,3 @@
-
 function transform(arg1) {
     let result = 0;
     for (let i = 0; i < arg1.length; i++) {
@@ -37,5 +36,5 @@ function transform(arg1) {
 //
 //
 //
-console.log(transform([1, 2, 3, 4]))
-
+//
+console.log(transform([1, 2, 3, 4]));

@@ -37,5 +37,4 @@ function transform(arg1) {
 //
 //
 //
-console.log(transform([1, 2, 3, 4]))
-
+console.log(transform([1, 2, 3, 4]));

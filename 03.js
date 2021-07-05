@@ -37,6 +37,6 @@ function transform(arg1) {
 //
 // 
 //
-arr = [1,2,3,4]
-transform(arr)
+arr = [1,2,3,4];
+transform(arr);
 console.log(arr)
